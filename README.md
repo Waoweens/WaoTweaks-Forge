@@ -1,6 +1,6 @@
 # WaoTweaks
 
-# [Click here for Fabric version](https://github.com/Waoweens/WaoTweaks/)
+## [Click here for Fabric version](https://github.com/Waoweens/WaoTweaks/)
 
 Spices up Minecraft 1.16 a bit
 
