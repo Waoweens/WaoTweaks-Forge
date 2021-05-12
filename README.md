@@ -2,7 +2,7 @@
 
 ## [Click here for Fabric version](https://github.com/Waoweens/WaoTweaks/)
 
-Spices up Minecraft 1.16 a bit
+### Spices up Minecraft 1.16 a bit
 
 ## Recipes and other info on the [Wiki Page](https://github.com/Waoweens/WaoTweaks/wiki)
 ## Features
