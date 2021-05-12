@@ -1,4 +1,4 @@
-# WaoTweaks
+# WaoTweaks Forge Version
 
 ## [Click here for Fabric version](https://github.com/Waoweens/WaoTweaks/)
 
